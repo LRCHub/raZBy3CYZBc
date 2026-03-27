@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "てゆーか、みるてんって何？",
   "base_artist": "≠ME",
-  "createdAt": "2026-01-09T10:35:34.779435Z",
+  "createdAt": "2026-03-27T11:46:59.838670Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "≠ME",
       "has_synced": false,
       "path": "select/pl_01_てゆーか、みるてんって何_≠ME.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "てゆーか、みるてんって何？",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/localdb_01_てゆーか、みるてんって何_≠ME.lrc",
+      "repo_name": "raZBy3CYZBc"
     }
   ]
 }
